@@ -16,7 +16,7 @@ git add .
 git commit -m "The Nth commit on date."
 git remote rm origin
 git branch -M main
-git remote add origin git@github.com:robin-artemstein/react-router-site.git
+git remote add origin git@github.com:robin-chaopin-chen/react-router-site.git
 git push -u origin main
 ```
 
